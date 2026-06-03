@@ -1,0 +1,33 @@
+ CALCULATOR ALGORITHIM
+
+ STEP 1 - Start the calculator.
+
+ STEP 2 - The user inputs the first number into the calculator.
+
+ STEP 3 - The user selects the operator they want to use.
+
+ STEP 4 - The user inputs the second number into the calculator.
+
+ STEP 5 - The user then selects the equals to (=) operator.
+
+ STEP 6 - The calculator displays the final result.
+
+
+ SORTING NUMBERS 
+
+ (75, 7, 3, 89, 0.49, 13)
+
+ STEP 1 - Take into account the numbers oresented to you.
+
+ STEP 2 - Compare all the numbers.
+
+ STEP 3 - Start with the smallest number and write it down.
+
+ STEP 4 - Compare all the numbers to the smallest number.
+
+ STEP 5 - Whatever number is larger than the first one but smaller than the others, should be written down as the second number 
+ in the sequence.
+ 
+ STEP 6 - Continue the doing step 5 until all the numbers in the sequence have been accounted for.
+
+ STEP 7 - Write down the new order of numbers.

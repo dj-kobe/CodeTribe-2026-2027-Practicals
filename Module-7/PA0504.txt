@@ -1,0 +1,1 @@
+An interpreter is a software program that directly executes source code line-by-line or statement-by-statement at runtime, without requiring the program to be compiled into a standalone machine-code executable file beforehand

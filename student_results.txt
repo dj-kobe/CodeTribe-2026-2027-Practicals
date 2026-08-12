@@ -1,0 +1,10 @@
+Student Number: ST001
+Student Name: Thabo Molefe
+Course: Software Development
+Programming: 78.0
+Database: 65.0
+Web Development: 72.0
+Total: 215.0
+Average: 71.67
+Result: Competent
+Date Saved: 06 August 2026
